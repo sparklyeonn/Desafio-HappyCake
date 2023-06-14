@@ -2,8 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
+En caso de un error, me gustaria saberlo ya que en mi PC se ve diferente a como se ve en ptras debido a que mi computador está
+ muy viejito y es medio complicado usar NODE y REACT debido a las diferencias de versiones.
 In the project directory, you can run:
 
 ### `npm start`
